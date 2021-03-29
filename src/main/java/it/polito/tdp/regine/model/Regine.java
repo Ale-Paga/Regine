@@ -22,7 +22,7 @@ public class Regine {
 			// caso terminale
 		} else {
 			for(int colonna=0; colonna<N; colonna++) {
-				// if la possa nella casella [livello][colonna] è valida
+				// if la mossa nella casella [livello][colonna] è valida
 				// se sì, aggiungi a parziale e fai ricorsione
 			}
 		}
