@@ -17,7 +17,7 @@ public class Regine {
 	//     [0, 2]
 	//            [0, 2, 1]
 	
-	private void cerca(List<Integer>parziale, int livello) {
+	/*private void cerca(List<Integer>parziale, int livello) {
 		if(livello==N) {
 			// caso terminale
 		} else {
@@ -26,7 +26,7 @@ public class Regine {
 				// se sì, aggiungi a parziale e fai ricorsione
 			}
 		}
-	}
+	}*/
 	
 	
 	
