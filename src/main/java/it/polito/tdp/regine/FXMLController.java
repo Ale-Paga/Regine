@@ -78,7 +78,7 @@ public class FXMLController {
 		if (soluzione != null) {
 			for (int row = 0; row < N; row++) {
 				int col = soluzione.get(row);
-				Label cell = caselle.get(row * N + col);
+				Label cell = caselle.get(col * N + row);
 				cell.setText("♕");
 			}
 		}
